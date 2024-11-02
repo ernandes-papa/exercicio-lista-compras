@@ -3,6 +3,7 @@
     font-size: 40px;
     color: blue;
     border: 10px solid green;
+    
 }
 
 .lista_compras li{
@@ -10,7 +11,7 @@
     margin:10px;
     border: 10px solid green;
     padding: 10px;
-    height: 70px;
+
 }
 
 .lista_compras h1{
